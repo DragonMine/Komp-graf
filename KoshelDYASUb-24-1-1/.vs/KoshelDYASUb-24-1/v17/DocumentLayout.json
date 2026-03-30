@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Meadir\\Desktop\\KoshelDYASUb-24-1-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B95E096-23C6-4CCE-B55B-C8CCDA125B2B}|lb_1\\lb_1.vcxproj|C:\\Users\\Meadir\\Desktop\\KoshelDYASUb-24-1-1\\lb_1\\lb_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B95E096-23C6-4CCE-B55B-C8CCDA125B2B}|lb_1\\lb_1.vcxproj|solutionrelative:lb_1\\lb_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B95E096-23C6-4CCE-B55B-C8CCDA125B2B}|lb_1\\lb_1.vcxproj|C:\\Users\\Meadir\\Desktop\\KoshelDYASUb-24-1-1\\lb_1\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B95E096-23C6-4CCE-B55B-C8CCDA125B2B}|lb_1\\lb_1.vcxproj|solutionrelative:lb_1\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B95E096-23C6-4CCE-B55B-C8CCDA125B2B}|lb_1\\lb_1.vcxproj|C:\\Users\\Meadir\\Desktop\\KoshelDYASUb-24-1-1\\lb_1\\fragment.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3B95E096-23C6-4CCE-B55B-C8CCDA125B2B}|lb_1\\lb_1.vcxproj|solutionrelative:lb_1\\fragment.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B95E096-23C6-4CCE-B55B-C8CCDA125B2B}|lb_1\\lb_1.vcxproj|C:\\Users\\Meadir\\Desktop\\KoshelDYASUb-24-1-1\\lb_1\\vertex.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3B95E096-23C6-4CCE-B55B-C8CCDA125B2B}|lb_1\\lb_1.vcxproj|solutionrelative:lb_1\\vertex.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B95E096-23C6-4CCE-B55B-C8CCDA125B2B}|lb_1\\lb_1.vcxproj|C:\\Users\\Meadir\\Desktop\\KoshelDYASUb-24-1-1\\lb_1\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B95E096-23C6-4CCE-B55B-C8CCDA125B2B}|lb_1\\lb_1.vcxproj|solutionrelative:lb_1\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fragment.frag",
+              "DocumentMoniker": "C:\\Users\\Meadir\\Desktop\\KoshelDYASUb-24-1-1\\lb_1\\fragment.frag",
+              "RelativeDocumentMoniker": "lb_1\\fragment.frag",
+              "ToolTip": "C:\\Users\\Meadir\\Desktop\\KoshelDYASUb-24-1-1\\lb_1\\fragment.frag",
+              "RelativeToolTip": "lb_1\\fragment.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-30T12:13:31.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vertex.vert",
+              "DocumentMoniker": "C:\\Users\\Meadir\\Desktop\\KoshelDYASUb-24-1-1\\lb_1\\vertex.vert",
+              "RelativeDocumentMoniker": "lb_1\\vertex.vert",
+              "ToolTip": "C:\\Users\\Meadir\\Desktop\\KoshelDYASUb-24-1-1\\lb_1\\vertex.vert",
+              "RelativeToolTip": "lb_1\\vertex.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-30T12:13:08.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shader.cpp",
+              "DocumentMoniker": "C:\\Users\\Meadir\\Desktop\\KoshelDYASUb-24-1-1\\lb_1\\Shader.cpp",
+              "RelativeDocumentMoniker": "lb_1\\Shader.cpp",
+              "ToolTip": "C:\\Users\\Meadir\\Desktop\\KoshelDYASUb-24-1-1\\lb_1\\Shader.cpp",
+              "RelativeToolTip": "lb_1\\Shader.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-30T12:12:18.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shader.h",
+              "DocumentMoniker": "C:\\Users\\Meadir\\Desktop\\KoshelDYASUb-24-1-1\\lb_1\\Shader.h",
+              "RelativeDocumentMoniker": "lb_1\\Shader.h",
+              "ToolTip": "C:\\Users\\Meadir\\Desktop\\KoshelDYASUb-24-1-1\\lb_1\\Shader.h",
+              "RelativeToolTip": "lb_1\\Shader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-30T12:12:00.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lb_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Meadir\\Desktop\\KoshelDYASUb-24-1-1\\lb_1\\lb_1.cpp",
+              "RelativeDocumentMoniker": "lb_1\\lb_1.cpp",
+              "ToolTip": "C:\\Users\\Meadir\\Desktop\\KoshelDYASUb-24-1-1\\lb_1\\lb_1.cpp",
+              "RelativeToolTip": "lb_1\\lb_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-17T05:53:59.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
