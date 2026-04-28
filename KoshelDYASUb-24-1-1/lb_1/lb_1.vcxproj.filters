@@ -26,18 +26,18 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Shader.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
     <ClInclude Include="Model.h">
-      <Filter>Файлы заголовков</Filter>
+      <Filter>Исходные файлы</Filter>
     </ClInclude>
     <ClInclude Include="Mesh.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="Shader.h">
-      <Filter>Файлы заголовков</Filter>
+      <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="vertex.vert" />
-    <None Include="fragment.frag" />
+    <None Include="vertex.txt" />
+    <None Include="fragment.txt" />
   </ItemGroup>
 </Project>
